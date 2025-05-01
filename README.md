@@ -44,7 +44,3 @@ This project demonstrates core VB.NET development skills including working with 
 | **UI Completeness**             | Finished clean layout with data and polish                    | Simple static form layout                               |
 | **Real-World Simulation**       | Mimics a working Employee Directory System                    | Draft form structure only                               |
 | **Recruiter Impression**        | "Professional project with database simulation"               | "Early learning stage project"                          |
-
-## Project Comparison
-![Project Comparison Chart](ProjectComparisonChart.png)
-
