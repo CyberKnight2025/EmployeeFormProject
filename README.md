@@ -33,3 +33,16 @@ This project demonstrates core VB.NET development skills including working with 
 - Improve UI with better styling (modern WinForms).
 - Implement Entity Framework for easier data management.
 - Add user authentication and authorization.
+
+  ## Project Comparison
+  ## 📊 Project Comparison
+
+| Feature                         | EmployeeDirectory Project                                     | EmployeeFormProject                                     |
+|---------------------------------|---------------------------------------------------------------|---------------------------------------------------------|
+| **Main Focus**                  | Full Employee Management System (Table + Form + Buttons)      | Basic Employee Form Layout (Early version)              |
+| **DataGridView**                | (shows real employee records with color-coding)               | (no table of employees shown)                           |
+| **CRUD Operations**             | Add, Update, Delete, Exit (Buttons Functional Concept)        | Layout Only (no functional backend yet)                 |
+| **UI Completeness**             | Finished clean layout with data and polish                    | Simple static form layout                               |
+| **Real-World Simulation**       | Mimics a working Employee Directory System                    | Draft form structure only                               |
+| **Recruiter Impression**        | "Professional project with database simulation"               | "Early learning stage project"                          |
+
