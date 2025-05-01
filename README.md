@@ -35,7 +35,6 @@ This project demonstrates core VB.NET development skills including working with 
 - Add user authentication and authorization.
 
   ## Project Comparison
-
 | Feature                         | EmployeeDirectory Project                                     | EmployeeFormProject                                     |
 |---------------------------------|---------------------------------------------------------------|---------------------------------------------------------|
 | **Main Focus**                  | Full Employee Management System (Table + Form + Buttons)      | Basic Employee Form Layout (Early version)              |
@@ -44,3 +43,7 @@ This project demonstrates core VB.NET development skills including working with 
 | **UI Completeness**             | Finished clean layout with data and polish                    | Simple static form layout                               |
 | **Real-World Simulation**       | Mimics a working Employee Directory System                    | Draft form structure only                               |
 | **Recruiter Impression**        | "Professional project with database simulation"               | "Early learning stage project"                          |
+
+
+## Related Project
+Explore the [EmployeeDirectory](https://github.com/CyberKnight2025/EmployeeDirectory) project to see a more complete system!
