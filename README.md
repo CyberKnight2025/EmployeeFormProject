@@ -1,4 +1,4 @@
-# Employee Directory - VB.NET Windows Forms Application
+# Employee Form - VB.NET Windows Forms Application
 
 ## Overview
 This project is a VB.NET Windows Forms application that connects to a SQL Server database and manages employee records. It allows users to view, add, update, and delete employee information using a clean graphical user interface (GUI).
