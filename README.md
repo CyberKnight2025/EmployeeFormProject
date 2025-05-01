@@ -35,14 +35,14 @@ This project demonstrates core VB.NET development skills including working with 
 - Add user authentication and authorization.
 
   ## Project Comparison
-| Feature                         | EmployeeDirectory Project                                     | EmployeeFormProject                                     |
-|---------------------------------|---------------------------------------------------------------|---------------------------------------------------------|
-| **Main Focus**                  | Full Employee Management System (Table + Form + Buttons)      | Basic Employee Form Layout (Early version)              |
-| **DataGridView**                | (shows real employee records with color-coding)               | (no table of employees shown)                           |
-| **CRUD Operations**             | Add, Update, Delete, Exit (Buttons Functional Concept)        | Layout Only (no functional backend yet)                 |
-| **UI Completeness**             | Finished clean layout with data and polish                    | Simple static form layout                               |
-| **Real-World Simulation**       | Mimics a working Employee Directory System                    | Draft form structure only                               |
-| **Recruiter Impression**        | "Professional project with database simulation"               | "Early learning stage project"                          |
+| Feature                         |  Employee Form Project                                        | Employee Directory Project                                    |
+|---------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
+| **Main Focus**                  | Basic Employee Form Layout (Early version)                    | Full Employee Management System (Table + Form + Buttons)      |
+| **DataGridView**                | (no table of employees shown)                                 | Add, Update, Delete, Exit (Buttons Functional Concept)        |
+| **CRUD Operations**             | Layout Only (no functional backend yet)                       | Add, Update, Delete, Exit (Buttons Functional Concept)        |
+| **UI Completeness**             | Simple static form layout                                     | Finished clean layout with data and polish                    |
+| **Real-World Simulation**       | Draft form structure only                                     | Mimics a working Employee Directory System                    |
+| **Recruiter Impression**        | "Early learning stage project"                                | "Professional project with database simulation"               |
 
 
 ## Related Project
