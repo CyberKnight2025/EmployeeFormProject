@@ -42,8 +42,6 @@ This project demonstrates core VB.NET development skills including working with 
 | **CRUD Operations**             | Layout Only (no functional backend yet)                       | Add, Update, Delete, Exit (Buttons Functional Concept)        |
 | **UI Completeness**             | Simple static form layout                                     | Finished clean layout with data and polish                    |
 | **Real-World Simulation**       | Draft form structure only                                     | Mimics a working Employee Directory System                    |
-| **Recruiter Impression**        | "Early learning stage project"                                | "Professional project with database simulation"               |
-
 
 ## Related Project
 Explore the [EmployeeDirectory](https://github.com/CyberKnight2025/EmployeeDirectory) project to see a more complete system!
